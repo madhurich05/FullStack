@@ -1,4 +1,4 @@
 function(){
 
-    console.log('');
+    console.log('commit these changes to git');
 }
